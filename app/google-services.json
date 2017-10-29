@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "307580989320",
+    "firebase_url": "https://mapexample-1509095404471.firebaseio.com",
+    "project_id": "mapexample-1509095404471",
+    "storage_bucket": "mapexample-1509095404471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307580989320:android:43b0d1af18f20d45",
+        "android_client_info": {
+          "package_name": "nekono.article.demo.mapexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307580989320-arfa7fqro1r063eoefp3qu4do1jco5er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV2ZXzGPI4y7m71IT7pJVWqvBmAw6BjWQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
